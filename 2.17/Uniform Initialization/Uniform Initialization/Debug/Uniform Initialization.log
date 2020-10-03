@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ahhadi\source\repos\Udemy - cpp\2.17\Uniform Initialization\Uniform Initialization\Source.cpp(9,7): warning C4101: 'c1': unreferenced local variable
+C:\Users\ahhadi\source\repos\Udemy - cpp\2.17\Uniform Initialization\Uniform Initialization\Source.cpp(3,6): warning C4101: 'a1': unreferenced local variable
+  Uniform Initialization.vcxproj -> C:\Users\ahhadi\source\repos\Udemy - cpp\2.17\Uniform Initialization\Debug\Uniform Initialization.exe
