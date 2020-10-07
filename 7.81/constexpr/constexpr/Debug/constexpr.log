@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\ahhadi\source\repos\Udemy - cpp\7.81\constexpr\constexpr\Source.cpp(29,6): warning C4101: 'arr1': unreferenced local variable
+C:\Users\ahhadi\source\repos\Udemy - cpp\7.81\constexpr\constexpr\Source.cpp(25,6): warning C4101: 'arr': unreferenced local variable
+  constexpr.vcxproj -> C:\Users\ahhadi\source\repos\Udemy - cpp\7.81\constexpr\Debug\constexpr.exe
