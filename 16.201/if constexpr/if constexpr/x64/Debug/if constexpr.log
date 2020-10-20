@@ -1,0 +1,7 @@
+﻿  Source.cpp
+C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\if constexpr\Source.cpp(6,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\if constexpr\Source.cpp(8,7): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\if constexpr\Source.cpp(19,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\if constexpr\Source.cpp(26,2): warning C4984: 'if constexpr' is a C++17 language extension
+C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\if constexpr\Source.cpp(28,7): warning C4984: 'if constexpr' is a C++17 language extension
+  if constexpr.vcxproj -> C:\Users\ahhadi\source\repos\Udemy - cpp\16.201\if constexpr\x64\Debug\if constexpr.exe
